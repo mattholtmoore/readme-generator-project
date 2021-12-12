@@ -47,3 +47,6 @@
   GitHub Link: https://www.github.com/mattholtmoore
 
   Email: mattholtmoore@gmail.com
+  
+  ## Walkthrough Video
+  https://watch.screencastify.com/v/541SZbyhseKvTv3uqsOa
