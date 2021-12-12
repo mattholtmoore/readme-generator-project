@@ -1,6 +1,7 @@
 # README Generator
 
 ![image](https://img.shields.io/badge/Created%20By-Matt%20Moore-orange)
+
 ![image](https://img.shields.io/badge/JavaScript-100%25-brightgreen)
 
   ## Description
@@ -28,11 +29,11 @@
   ## Contributing
   ![image](img/profilepic.JPG)
 
-  - mattholtmoore
+  - Matthew Holt Moore
 
-  - Stack Overflow
+  - Stack Overflow: https://stackoverflow.com/
 
-  - Google
+  - Google: https://www.google.com/
 
 
   ## License
@@ -40,9 +41,9 @@
 
  
   ## Tests 
-  
+  N/A
 
   ## Questions
-  mattholtmoore@gmail.com
+  GitHub Link: https://www.github.com/mattholtmoore
 
-  https://www.github.com/mattholtmoore
+  Email: mattholtmoore@gmail.com

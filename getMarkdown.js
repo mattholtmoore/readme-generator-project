@@ -36,7 +36,7 @@ function getMarkdown(data) {
 
   ## Questions
   ${data.email},
-  https://www.github.com/${data.gitHubUserName}`;
+  https://www.github.com/${data.gitHubUserLink}`;
 };
 
 module.exports = {

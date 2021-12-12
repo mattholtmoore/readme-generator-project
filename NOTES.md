@@ -96,14 +96,3 @@ You are required to submit the following for review:
 <!-- created by badge: ![image](https://img.shields.io/badge/Created%20By-Matt%20Moore-orange) -->
 <!-- JS100% badge: ![image](https://img.shields.io/badge/JavaScript-100%25-brightgreen) -->
 
-
-
-<!-- // .then((response) => {
-    //   fs.writeFile('README.md', JSON.stringify(response, null, '\t'), 'utf8', (err) => {
-      //     err ? console.log(err) : console.log('Success!');
-      //   });
-      // });
-      // console.log(response);
-      //   response.confirm === response.password
-      //     ? console.log('Success!')
-      //     : console.log('Whoops! That\'s no bueño. ') -->
