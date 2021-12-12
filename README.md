@@ -1,5 +1,8 @@
 # README Generator
 
+![image](https://img.shields.io/badge/Created%20By-Matt%20Moore-orange)
+![image](https://img.shields.io/badge/JavaScript-100%25-brightgreen)
+
   ## Description
   This is an app that allows the user to generate a README file directly from the terminal.
 
