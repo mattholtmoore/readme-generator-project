@@ -1,7 +1,8 @@
-# 1
+function getMarkdown(data) {
+  return `# ${data.title}
 
   ## Description
-  2
+  ${data.description}
 
   ## Table of Contents
 
@@ -13,20 +14,25 @@
   - [Questions](#questions)
 
   ## Installation
-  3
+  ${data.installation}
 
   ## Usage
-  4
+  ${data.usage}
 
   ## Contributing
-  5
+  ${data.contributing}
 
   ## License
-  ![image](https://img.shields.io/badge/license-MIT-green)
+  ${data.license}
  
   ## Tests 
-  6
+  ${data.tests}
 
   ## Questions
-  8,
-  (https://www.github.com/7)
+  ${data.email},
+  (https://www.github.com/${data.gitHubUserName})`;
+};
+
+module.exports = {
+  getMarkdown: getMarkdown
+}
