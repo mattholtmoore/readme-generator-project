@@ -13,24 +13,30 @@ function getMarkdown(data) {
   - [Tests](#tests)
   - [Questions](#questions)
 
+  
   ## Installation
   ${data.installation}
+
 
   ## Usage
   ${data.usage}
 
+
   ## Contributing
   ${data.contributing}
 
+
   ## License
   ${data.license}
+
  
   ## Tests 
   ${data.tests}
 
+
   ## Questions
   ${data.email},
-  (https://www.github.com/${data.gitHubUserName})`;
+  https://www.github.com/${data.gitHubUserName}`;
 };
 
 module.exports = {

@@ -1,7 +1,8 @@
-# 1
+# README Generator
 
   ## Description
-  2
+  This is an app that allows the user to generate a README file directly from the terminal.
+
 
   ## Table of Contents
 
@@ -12,21 +13,33 @@
   - [Tests](#tests)
   - [Questions](#questions)
 
+
   ## Installation
-  3
+  To install, run this command: `npm install`
+
 
   ## Usage
-  4
+  In the terminal, run the  `node index.js` command to be guided through a series of steps to generate the README file.
+
 
   ## Contributing
-  5
+  ![image](img/profilepic.JPG)
+
+  - mattholtmoore
+
+  - Stack Overflow
+
+  - Google
+
 
   ## License
   ![image](https://img.shields.io/badge/license-MIT-green)
+
  
   ## Tests 
-  6
+  
 
   ## Questions
-  8,
-  (https://www.github.com/7)
+  mattholtmoore@gmail.com
+
+  https://www.github.com/mattholtmoore

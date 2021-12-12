@@ -69,16 +69,14 @@ inquirer
   ])
   .then((response) => {
     console.log(response);
-    response.confirm === response.password
-      ? console.log('Success!')
-      : console.log('Whoops! That\'s not it.'),
+    
     getItDone("./README.md", response);
   })
 
 // Function to "get it done"
 function getItDone(file, data) {
   fs.writeFile(file, markdown.getMarkdown(data), (err) => {
-    if(err) console.log(err);
+    err ? console.log(err) : console.log('Success!')
   })
 }
 
