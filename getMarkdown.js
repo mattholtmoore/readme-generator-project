@@ -1,4 +1,7 @@
+// Created getMarkdown function to keep index.js more clean and concise.
 function getMarkdown(data) {
+
+  // Built out appropriate README structure/schematic 
   return `# ${data.title}
 
   ## Description
@@ -39,6 +42,6 @@ function getMarkdown(data) {
   https://www.github.com/${data.gitHubUserLink}`;
 };
 
-module.exports = {
-  getMarkdown: getMarkdown
-}
+// Utilized module.exports to achieve modular programming so that index.js is allowed to access the exported code.
+
+module.exports = { getMarkdown: getMarkdown };

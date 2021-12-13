@@ -1,7 +1,9 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
+// Intentionally created getMarkdown file to keep index.js more clean and concise
 const markdown = require('./getMarkdown.js');
 
+// Inquirer being used
 inquirer
   .prompt([
     {
@@ -73,14 +75,12 @@ inquirer
     getItDone("./README.md", response);
   })
 
-// Function to "get it done"
+// Functions utilizing external getMarkdown file and generating README file
 function getItDone(file, data) {
   fs.writeFile(file, markdown.getMarkdown(data), (err) => {
     err ? console.log(err) : console.log('Success!')
   })
 }
-
-// Function to initialize
 function init() {
   fs.writeFile("./README.md", "", (err) => {
     if(err) console.log(err);
