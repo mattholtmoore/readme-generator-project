@@ -1,5 +1,6 @@
 # README Generator
-
+<!-- made a few additional edits to my README for aesthetics  -->
+<!-- created personal badges -->
 ![image](https://img.shields.io/badge/Created%20By-Matt%20Moore-orange)
 
 ![image](https://img.shields.io/badge/JavaScript-100%25-brightgreen)
@@ -25,7 +26,7 @@
   ## Usage
   In the terminal, run the  `node index.js` command to be guided through a series of steps to generate the README file.
 
-
+<!-- added a profile img and third party research/support-->
   ## Contributing
   ![image](img/profilepic.JPG)
 
@@ -35,7 +36,7 @@
 
   - Google: https://www.google.com/
 
-
+<!-- this is just one of four provided license selections to choose from within app -->
   ## License
   ![image](https://img.shields.io/badge/license-MIT-green)
 
@@ -48,5 +49,7 @@
 
   Email: mattholtmoore@gmail.com
   
+  <!-- Screencastify Walkthrough video link -->
   ## Walkthrough Video
   https://watch.screencastify.com/v/541SZbyhseKvTv3uqsOa
+
