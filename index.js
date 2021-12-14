@@ -1,9 +1,10 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
+
 // Intentionally created getMarkdown file to keep index.js more clean and concise
 const markdown = require('./getMarkdown.js');
 
-// Inquirer being used
+// Inquirer being used for prompting questions/input sections
 inquirer
   .prompt([
     {
@@ -88,4 +89,12 @@ function init() {
 }
 
 init();
+
+
+
+
+
+
+
+
 
