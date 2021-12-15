@@ -28,7 +28,7 @@
 
 <!-- added a profile img and third party research/support-->
   ## Contributing
-  ![image](img/profilepic.JPG)
+  ![image](utils/images/profilepic.JPG)
 
   - Matthew Holt Moore
 
