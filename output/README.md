@@ -1,7 +1,7 @@
-# 1
+# Sample README
 
   ## Description
-  2
+  Detailed description goes here
 
   ## Table of Contents
 
@@ -12,28 +12,28 @@
   - [Tests](#tests)
   - [Questions](#questions)
 
-  
+
   ## Installation
-  3
+  Installation command goes here AKA: `npm install`
 
 
   ## Usage
-  4
-
+  Command to be guided through a series of steps to generate the README file. in the terminal goes here AKA: `node index.js`
 
   ## Contributing
-  5
 
+  Contributor names, GitHub Usernames, and any third party links used for support goes here.
 
-  ## License
-  Mit License: ![image](https://img.shields.io/badge/license-MIT-green)
-
- 
   ## Tests 
-  6
+  Testing command goes here AKA: `npm test`
+  
+  
+  ## License
+  ![image](https://img.shields.io/badge/license-MIT-green)
 
 
   ## Questions
-  mattholmoore@gmail.com,
-  
-  https://www.github.com/mattholtmoore
+  If you have any questions at all, please email me at: thisismyname@insertemail.com
+
+  You can also find me on GitHub at: https://www.github.com
+
