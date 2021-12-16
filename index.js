@@ -59,8 +59,8 @@ inquirer
     {
       // GitHub User Link
       type: 'input',
-      message: 'What is the link to your GitHub account?',
-      name: 'gitHubUserLink',
+      message: 'What is your GitHub username?',
+      name: 'gitHubUserName',
     },
     {
       // Email

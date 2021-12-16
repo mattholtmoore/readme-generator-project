@@ -38,8 +38,9 @@ function getMarkdown(data) {
 
 
   ## Questions
-  ${data.email},
-  https://www.github.com/${data.gitHubUserLink}`;
+  If you have any questions at all, please email me at: ${data.email},
+  
+  You can also find me on GitHub at: https://www.github.com/${data.gitHubUserName}`;
 };
 
 // Utilized module.exports to achieve modular programming so that index.js is allowed to access the exported code.

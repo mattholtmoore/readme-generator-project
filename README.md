@@ -24,7 +24,7 @@
 
 
   ## Usage
-  In the terminal, run the  `node index.js` command to be guided through a series of steps to generate the README file.
+  In the terminal, run the `node index.js` command to be guided through a series of steps to generate the README file.
 
 <!-- added a profile img and third party research/support-->
   ## Contributing
@@ -42,12 +42,13 @@
 
  
   ## Tests 
-  N/A
+  To test, run this command: `npm test`
 
   ## Questions
-  GitHub Link: https://www.github.com/mattholtmoore
+  If you have any questions at all, please email me at: mattholtmoore@gmail.com
 
-  Email: mattholtmoore@gmail.com
+  You can also find me on GitHub at: https://www.github.com/mattholtmoore
+
   
   <!-- Screencastify Walkthrough video link -->
   ## Walkthrough Video
